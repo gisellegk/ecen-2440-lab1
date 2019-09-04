@@ -1,0 +1,9 @@
+"Part";"Value";"Device";"Package";"Description";"PROD_ID";"SPICEPREFIX";
+"C1";"1.0uF";"C-USC0805";"C0805";"CAPACITOR, American symbol";"";"C";
+"C2";"1.0uF";"C-USC0805";"C0805";"CAPACITOR, American symbol";"";"C";
+"JP1";"";"PINHD-1X2";"1X02";"PIN HEADER";"";"";
+"JP2";"";"PINHD-1X6";"1X06";"PIN HEADER";"";"";
+"R1";"2.2k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"R";
+"R2";"2.2k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"R";
+"SJ1";"";"SJ2W";"SJ_2";"SMD solder JUMPER";"";"";
+"U$1";"DRV2605L";"DRV2605L";"VSSOP-10";"";"IC-13504";"";
