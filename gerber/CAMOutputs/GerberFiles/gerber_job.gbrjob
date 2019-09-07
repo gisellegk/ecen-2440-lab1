@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-09-05T18:08:15Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Lab 1"
+        },
+        "Owner": "Ibrahim Alqattan <ibal4494@colorado.edu>",
+        "Size": {
+            "X": 25.07,
+            "Y": 21.58
+        }
+    }
+}

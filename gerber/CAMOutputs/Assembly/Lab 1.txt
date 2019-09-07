@@ -1,0 +1,10 @@
+Partlist exported from /Users/ibrahimalqattan/Documents/EAGLE/projects/ecen-2440-lab1/Lab 1.sch at 9/5/19 12:08 PM
+
+Qty Value    Device     Package  Parts  Description                POPULARITY PROD_ID  SPICEPREFIX
+1            C-USC0805  C0805    C3     CAPACITOR, American symbol 63                  C          
+1            PINHD-1X2  1X02     JP1    PIN HEADER                                                
+1            PINHD-1X6  1X06     JP2    PIN HEADER                                                
+1            SJ2W       SJ_2     SJ1    SMD solder JUMPER                                         
+2   1.0uF    C-USC0805  C0805    C1, C2 CAPACITOR, American symbol 63                  C          
+2   2.2k     R-US_R0805 R0805    R1, R2 RESISTOR, American symbol                      R          
+1   DRV2605L DRV2605L   VSSOP-10 U$1                                          IC-13504            
