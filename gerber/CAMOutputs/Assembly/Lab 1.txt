@@ -1,4 +1,4 @@
-Partlist exported from /Users/ibrahimalqattan/Documents/EAGLE/projects/ecen-2440-lab1/Lab 1.sch at 9/5/19 12:08 PM
+Partlist exported from /Users/ibrahimalqattan/Documents/EAGLE/projects/ecen-2440-lab1/Lab 1.sch at 9/6/19 7:13 PM
 
 Qty Value    Device     Package  Parts  Description                POPULARITY PROD_ID  SPICEPREFIX
 1            C-USC0805  C0805    C3     CAPACITOR, American symbol 63                  C          
